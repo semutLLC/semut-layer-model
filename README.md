@@ -102,7 +102,8 @@ Norms influence future behavior.
 
 ## Layer 5: Institution
 
-Institutions are stable structures that maintain and reproduce norms.
+Institutions are stable structures that maintain and reproduce norms across time and participants.
+
 
 Examples:
 
@@ -135,17 +136,7 @@ Ideologies influence the direction of future coordination.
 
 The Semut Layer Model proposes the following progression:
 
-Trace
-↓
-Memory
-↓
-Knowledge
-↓
-Norm
-↓
-Institution
-↓
-Ideology
+Trace → Memory → Knowledge → Norm → Institution → Ideology
 
 The boundaries between layers are not strict.
 
@@ -199,7 +190,47 @@ Trust and merit-based reputation.
 
 ---
 
-# 5. Potential Applications
+# 5. Natural and Constructed Institutions
+
+In the Semut Layer Model, institutions are not limited to governments or corporations. More generally, an institution is any persistent structure that preserves and reproduces norms across time and participants.
+
+A useful interpretation is:
+
+**Institution = Persistent Memory of a Norm**
+
+This definition connects institutions directly to the lower layers of the framework. Institutions can be viewed as the stabilization of successful norms into persistent structures:
+
+**Trace → Memory → Knowledge → Norm → Institution**
+
+## Natural Institutions
+
+Many successful systems contain institutions that were not consciously designed. Biological examples include capillary networks that maintain efficient resource exchange through local cellular interactions and chemical signaling.
+
+In these systems, endothelial cells and signaling molecules function as distributed components that collectively maintain the norm through local interactions and feedback loops. No single component is explicitly assigned the job. Instead, coordination emerges from local interactions and feedback loops, while the resulting structures help guide future behavior.
+
+Insect colonies coordinate through pheromone trails and behavioral feedback loops. Informal community customs and emergent languages also function as natural institutions by preserving and reproducing norms without centralized design.
+
+These institutions emerge through evolution, adaptation, and repeated interaction rather than deliberate planning.
+
+## Constructed Institutions
+
+Humans intentionally create institutions to preserve norms at larger scales. Governments, corporations, schools, technical standards, legal systems, and digital platforms are examples of structures designed to coordinate behavior and preserve collective memory.
+
+These systems often designate specific agents, such as managers, administrators, moderators, or regulators, to maintain and enforce norms. However, much of their stability still depends on distributed participation, shared expectations, and repeated behavior throughout the broader network.
+
+Constructed institutions frequently build upon norms that previously emerged through local interactions.
+
+## Implications for Semut
+
+Semut does not seek to eliminate institutions. Instead, it strengthens the foundation layers of coordination: traces, memory, knowledge, and norms.
+
+By improving the visibility of actions and preserving collective memory, Semut enables institutions to emerge from demonstrated behavior rather than relying solely on centralized authority. In this view, stronger institutions arise from stronger foundations.
+
+Stable coordination systems often develop institutions, whether through biological evolution, social adaptation, or intentional design. Semut focuses on making the processes that generate those institutions more visible, traceable, and adaptable.
+
+
+
+# 6. Potential Applications
 
 Potential applications include:
 
@@ -214,7 +245,7 @@ The framework may provide a way to identify emergent structures using observable
 
 ---
 
-# 6. Limitations
+# 7. Limitations
 
 This model is currently conceptual.
 
@@ -226,7 +257,7 @@ Future work is required to formalize measurements and validate the framework emp
 
 ---
 
-# 7. Future Work
+# 8. Future Work
 
 Future research may explore:
 
@@ -238,7 +269,7 @@ Future research may explore:
 
 ---
 
-# 8. Conclusion
+# 9. Conclusion
 
 The Semut Layer Model proposes that complex coordination systems emerge from accumulated traces through successive layers of memory, knowledge, norms, institutions, and ideologies.
 
