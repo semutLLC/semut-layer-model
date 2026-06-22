@@ -13,3 +13,9 @@ Real-time layer visualization.
 
 Repository:
 https://github.com/semutLLC/semut-dashboard
+
+### Semut Trace
+Trace tracker for local businesses.
+
+Repository:
+https://github.com/semutLLC/semut-trace
